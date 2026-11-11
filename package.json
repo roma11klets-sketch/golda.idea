@@ -1,0 +1,9 @@
+{
+  "name": "island-word-game",
+  "version": "1.0.0",
+  "description": "3D survival game: players write 2 words, AI turns them into reality. Rooms for 5 players.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
